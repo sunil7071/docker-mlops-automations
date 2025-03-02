@@ -1,2 +1,2 @@
 # mlops-automations-demo
-sample
+sample..
